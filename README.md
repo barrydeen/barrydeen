@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @barrydeen
-- 👀 I’m interested in AI & Bitcoin
+- 👋 Hi, I’m @barrydeen (utxo the webmaster)
+- 👀 I’m interested in Freedom Tech (Bitcoin, Nostr, AI)
+- https://njump.me/utxo.one
 
 <!---
 barrydeen/barrydeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
