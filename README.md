@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @barrydeen (utxo the webmaster)
-- 👀 I’m interested in Freedom Tech (Bitcoin, Nostr, AI)
-- https://njump.me/utxo.one
+- 👋 Hi, I’m @barrydeen
+- 👀 I’m an indie hacker, running a portfolio of micro SaaS apps
+- Passionate for open source, bitcoin and nostr.
 
 <!---
 barrydeen/barrydeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
